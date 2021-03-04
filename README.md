@@ -1,26 +1,26 @@
 # Crypto-Exchange-App
 
-** The project was bootstrapped with Create React App and redux toolkit template.
+* The project was bootstrapped with Create React App and redux toolkit template.
 
-## The project contains only functional-based components.
+* The project contains only functional-based components.
 
-## Redux logic Redux - toolkit was used to cover Redux logic and immutability of the Redux store (Immer and Redux thunk are built-in features in Redux toolkit).
+* Redux logic Redux - toolkit was used to cover Redux logic and immutability of the Redux store (Immer and Redux thunk are built-in features in Redux toolkit).
 
-## Initially we fetch data from all providers and remap their results so we could have consistent data structure in our app state.
+* Initially we fetch data from all providers and remap their results so we could have consistent data structure in our app state.
 
-## App UX is handled missing endpoint results.
+* App UX is handled missing endpoint results.
 
-## It was added sorting functionality.
+* It was added sorting functionality.
 
-## Use 'yarn start' command from the root project directory to start the project in development mode.
+* Use 'yarn start' command from the root project directory to start the project in development mode.
 
-## You need to use the browser extension to avoid the CORS policy problem from localhost origin (applyied for Bitfinex).
+* You need to use the browser extension to avoid the CORS policy problem from localhost origin (applyied for Bitfinex).
 
-## I do not have enough time to read and apply all documentations for all provided APIs (Binance, Bitfinex, Huobi, Kraken).
+* I do not have enough time to read and apply all documentations for all provided APIs (Binance, Bitfinex, Huobi, Kraken).
 
-## For historical rates is used one endpoint for all providers.
+* For historical rates is used one endpoint for all providers.
 
-## I do not have enough time to use WebSocket to update rates periodically.
+* I do not have enough time to use WebSocket connection for updating rates periodically.
 
 ---
 
