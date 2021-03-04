@@ -1,6 +1,6 @@
 # Crypto-Exchange-App
 
-## The project was bootstrapped with Create React App and redux toolkit template.
+** The project was bootstrapped with Create React App and redux toolkit template.
 
 ## The project contains only functional-based components.
 
