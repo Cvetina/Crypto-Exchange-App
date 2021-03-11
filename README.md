@@ -1,10 +1,10 @@
 # Crypto-Exchange-App
 
-* The project was bootstrapped with Create React App and redux toolkit template.
+* The project was bootstrapped with *Create React App* and *Redux toolkit* template.
 
-* The project contains only functional-based components.
+* The project contains only *functional-based* components.
 
-* Redux logic Redux - toolkit was used to cover Redux logic and immutability of the Redux store (Immer and Redux thunk are built-in features in Redux toolkit).
+* Redux logic - *Redux toolkit* was used to cover Redux logic and immutability of the Redux store (*Immer* and *Redux thunk* are built-in features in *Redux toolkit*).
 
 * Initially we fetch data from all providers and remap their results so we could have consistent data structure in our app state.
 
